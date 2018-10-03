@@ -1,5 +1,7 @@
-Untitled
+K-Prototypes: A Case Study
 ================
+
+\[\alpha, \beta,  \gamma, \Gamma\]
 
 ### Erik’s Practical Applications of Unsupervised Learning
 
@@ -11,14 +13,18 @@ Untitled
 3.  Target engineering - Once I have found these natural categories
     exist, can I then use them as my Y and predict future membership in
     that cluster?
+    <div>
 
-## GitHub Documents
+</div>
 
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
+## A K-Means Refresher
 
-## Including Code
+K-Means clustering is a classic algorithm used for clustering that
+attempts to find the center of \(k\) specified clusters
+
+## Why K-Prototypes?
+
+The problem with K-Means clustering
 
 You can include R code in the document as follows:
 
