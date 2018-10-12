@@ -13,8 +13,7 @@ You are constantly categorizing like objects and phenomena that you see, hear, s
 _"Efficient partitioning of large data sets into homogeneous clusters is a fundamental problem in  data mining" -Huang, 1997_
 <br>Similar to many tasks of machine learning, clustering aims to mimic the mind's process, but formally and on a larger scale.
 
-<img src="one_of_these_things.png/">
-
+![alt text](https://github.com/chartsengrafs/k_prototypes/blob/master/one_of_these_things.PNG)
 
 ## Business Applications of Observational Clustering 
 
