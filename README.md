@@ -121,9 +121,7 @@ plt.scatter(X[:,0], X[:,1], s=200)
 plt.show()
 ```
 
-
-![alt_txt](https://github.com/chartsengrafs/k_prototypes/blob/master/kroenecker_delta.PNG)
-
+![alt_txt](https://github.com/chartsengrafs/k_prototypes/blob/master/dummy_continuous.PNG)
 
 ### ^ The intuitiveness of Euclidean distance starts to fall apart here
 
@@ -145,7 +143,6 @@ plt.show()
 ```
 
 
-![alt_txt](https://github.com/chartsengrafs/k_prototypes/blob/master/dummy_continuous.PNG)
 
 
 #### ^WTH does that even mean?
