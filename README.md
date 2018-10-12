@@ -145,7 +145,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![alt_txt](https://github.com/chartsengrafs/k_prototypes/blob/master/dummy_continuous.PNG)
 
 
 #### ^WTH does that even mean?
