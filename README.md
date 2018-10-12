@@ -43,8 +43,8 @@ b. In that way, row-wise clustering actually has some of the effective character
 How do we measure internal homegenity and external separation (aka 'distance')?
  The goal, more formally out, is to find the means of 'k' clusters (centroids) such that we minimize the Euclidean within cluster distance:
 
+![alt text](https://github.com/chartsengrafs/k_prototypes/blob/master/minimize_within_cluster_variance.PNG)
 
-<img src="minimize_within_cluster_variance.png">
 
 
 
