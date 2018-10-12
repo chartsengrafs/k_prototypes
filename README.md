@@ -62,9 +62,7 @@ plt.show()
 
 ```
 
-
-![png](output_9_0.png)
-
+![alt_text](https://github.com/chartsengrafs/k_prototypes/blob/master/obvious_clusters.PNG)
 
 ### It's very clear in this example where the two natural clusters are bunching
 
