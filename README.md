@@ -77,9 +77,7 @@ As defined above, the K-Means algorithm is iterative an can be described in the 
 5. Repeat steps 2 through 4 until cluster membership becomes stable
 
 
-
-
-[Check out this awesome animated example of initialization and iteration towards stable clusters(https://www.youtube.com/embed/BVFG7fd1H30" frameborder="0" allow="autoplay; encrypted-media")
+Check out this awesome [animated simulation](https://www.youtube.com/embed/BVFG7fd1H30") that brilliantly visaulizes the initialization and iteration towards stable cluster membership of the algorithm.
 
 
 
