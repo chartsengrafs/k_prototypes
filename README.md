@@ -175,7 +175,7 @@ In terms of data science projects, my experience with this followed a familiar p
 
 ## A Case Study Using a Python Implementation of K-Modes
 
-Niko DeVos created a Python implementation of both K-Modes (categoriucal clustering only) and K-Prototypes, which will be detailed in Part II, when we go over an applied example of K-Prototypes.
+Niko DeVos created a Python implementation of both [K-Modes (categorical clustering only) and K-Prototypes](https://github.com/nicodv/kmodes#huang97), which will be detailed in Part II, when I go over an applied example of K-Prototypes.
 
 
 ### Sources: 
