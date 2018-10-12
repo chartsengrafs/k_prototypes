@@ -79,11 +79,7 @@ As defined above, the K-Means algorithm is iterative an can be described in the 
 
 
 
-
-```python
-# Youtube
-HTML('<iframe width="560" height="315" src="https://www.youtube.com/embed/BVFG7fd1H30" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>')
-```
+[Check out this awesome animated example of initialization and iteration towards stable clusters](https://www.youtube.com/embed/BVFG7fd1H30" frameborder="0" allow="autoplay; encrypted-media")
 
 
 
