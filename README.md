@@ -49,6 +49,9 @@ How do we measure internal homegenity and external separation (aka 'distance')?
 
 
 ```python
+import matplotlib.pyplot as plt 
+%matplotlib inline
+improt numpy as np
 ##Creating a two dimensional feature set with obvious clusters
 X = np.array([[1, 2],
               [4, 6],
@@ -99,8 +102,7 @@ _"Is the Euclidean distance between 1 and 0, between -1 and 1, or between "Red" 
 
 ```python
 ##Creating a two dimensional feature set a dummy variable
-import matplotlib.pyplot as plt 
-%matplotlib inline
+
 X = np.array([
               [1, 1],
               [4, 0],
