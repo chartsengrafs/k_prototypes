@@ -122,7 +122,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![alt_txt](https://github.com/chartsengrafs/k_prototypes/blob/master/kroenecker_delta.PNG)
 
 
 ### ^ The intuitiveness of Euclidean distance starts to fall apart here
