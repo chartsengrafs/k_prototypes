@@ -79,12 +79,10 @@ As defined above, the K-Means algorithm is iterative an can be described in the 
 
 
 
-[Check out this awesome animated example of initialization and iteration towards stable clusters](https://www.youtube.com/embed/BVFG7fd1H30" frameborder="0" allow="autoplay; encrypted-media")
+[Check out this awesome animated example of initialization and iteration towards stable clusters(https://www.youtube.com/embed/BVFG7fd1H30" frameborder="0" allow="autoplay; encrypted-media")
 
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BVFG7fd1H30" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
@@ -148,8 +146,7 @@ The summed distances between any means in these examples have no relevancy <br>
 ## Measures of Similarity for Categorical Variables
 There is, however, a rich body of work across several discplines that deal with the problem of categorical similarity. The (still) well used Chi-Sq statistic is a venerable technique derived in the 1800's for probabilistically comparing categorical contingency tables. <br><br> Several of the approaches look at the mismatches and overlaps between categories. One of those is measures of overlap is called _Hamming Distance_, which itself uses the _Kronecker Delta_ :
 
-<img src="kroenecker_delta.png">
-
+![alt_txt](https://github.com/chartsengrafs/k_prototypes/blob/master/kroenecker_delta.PNG)
 Simply put, the _Kronecker Delta_ returns a 1 if two symbols match and a 0 if they do not.
 
 ## K-Prototypes (Huang 1997)
