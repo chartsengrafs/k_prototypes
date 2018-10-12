@@ -143,7 +143,7 @@ plt.show()
 ```
 
 
-
+![alt_txt](https://github.com/chartsengrafs/k_prototypes/blob/master/dummy_dummy.PNG)
 
 #### ^WTH does that even mean?
 The summed distances between any means in these examples have no relevancy <br>
